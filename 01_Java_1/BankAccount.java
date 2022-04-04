@@ -1,5 +1,5 @@
 public class BankAccount {
-  	public static void main(String[] args){
+  	public static void main(String[] args) {
       // Declare variables
       double balance = 1000.75;
       double amountToWithdraw = 250;
